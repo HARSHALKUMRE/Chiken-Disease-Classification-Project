@@ -1,0 +1,14 @@
+End to end Chicken-Disease-Classification
+
+1. Github Repository Setup
+2. Project Template Creation
+3. Project Setup & Requirements Installations
+4. Logging, Utils and Exception Modules
+5. Project Workflows
+6. All Components Notebook Experiments
+7. All Components Moduler Code Implementation
+8. Training Pipeline
+9. DVC(MLOps Tool) - For Pipeline Tracking And Implementation
+10. Prediction Pipeline and User App Creation
+11. Docker
+12. Final CI/CD Deployment on AWS and Azure
